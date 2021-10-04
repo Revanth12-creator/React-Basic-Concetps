@@ -1,0 +1,10 @@
+/* div img{
+  
+} */
+.totalblock div{
+    float: left;
+    padding: 10px;
+}
+.singleImage img{
+    border-radius: 60px;
+}

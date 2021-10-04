@@ -1,0 +1,10 @@
+.playerBlock{
+    display:flex;
+    flex-wrap:wrap;
+
+}
+.card img{
+    width: 349px;
+    height: 330px;
+    padding: 10px;
+}
